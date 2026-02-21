@@ -1,4 +1,4 @@
-#profile-title: MyVPN
+#profile-title: clowovxVPN
 vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?flow=&type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2&fp=chrome&allowInsecure=0#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%90%D0%93%20%F0%9F%A4%8D%F0%9F%92%AA%20turbo
 
 vless://b4f7750b-3f2c-4c8b-af9b-9a3338c19842@ru-cdn.ultima.foundation:3443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=m.vk.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%90%D0%93%20%F0%9F%A4%8D%E2%AD%90%EF%B8%8F%20NEW
